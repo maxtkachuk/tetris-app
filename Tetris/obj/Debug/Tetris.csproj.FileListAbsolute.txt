@@ -1,0 +1,11 @@
+C:\Users\maxtk\source\repos\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\maxtk\source\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\maxtk\source\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\maxtk\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\maxtk\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\maxtk\source\repos\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\maxtk\source\repos\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\maxtk\source\repos\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\maxtk\source\repos\Tetris\Tetris\obj\Debug\Tetris.Form2.resources
+C:\Users\maxtk\source\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\maxtk\source\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.SuggestedBindingRedirects.cache
